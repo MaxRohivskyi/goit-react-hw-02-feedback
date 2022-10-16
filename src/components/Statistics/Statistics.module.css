@@ -1,0 +1,11 @@
+.list_items {
+  list-style: none;
+  padding: 5px;
+};
+
+li {
+  color: rgb(40, 82, 128);
+  font-size: 14px;
+  font-weight: 400;
+  gap: 10px;
+}
