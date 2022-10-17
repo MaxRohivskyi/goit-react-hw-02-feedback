@@ -15,4 +15,9 @@
   box-shadow: 2px 2px 5px rgb(40, 82, 128);
   border-radius: 4px;
   cursor: pointer;
-};
+}
+
+.btn:hover {
+  color: rgb(243, 246, 249);
+  background-color: rgb(40, 82, 128);
+}
